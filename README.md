@@ -1,5 +1,5 @@
 # Factory Cart Station
-<img src="https://github.com/SpaceGameDev568/FactoryCartStation/blob/main/Assets/Icon_FactoryCartStation_512.png" width="50%">
+<img src="https://github.com/SpaceGameDev568/FactoryCartStation/blob/main/FactoryCartStationLogo.png" width="50%">
 
 A mod for Satisfactory that adds a docking station capable of loading or unloading your Factory Carts, but in a form factor much smaller than the standard Truck Station.
 
